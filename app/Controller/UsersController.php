@@ -13,13 +13,13 @@
 App::uses('AppController', 'Controller');
 App::uses('Folder', 'Utility');
 App::uses('File', 'Utility');
+App::uses('Xml', 'Utility');
 
 
 class UsersController extends AppController {
     public $name = 'Users';
-    public $uses = array("User");
-    
-    var $helpers = array('Xml');
+    public $uses = array(User,Book);
+
     
     public function signup(){
         if(!empty($this->data)){
@@ -30,8 +30,8 @@ class UsersController extends AppController {
 //            die();
             if($this->User->save($data)) {
                 //$newdir = new Folder(ROOT.'/books/asper/'.$data['User']['username'].'/', true, 0755);
-                $originaldir = new Folder(ROOT.'/books/asper/original', true, 0755);
-                $originaldir->copy(ROOT.'/books/asper/'.$data['User']['username'].'/');
+                $originaldir = new Folder(WWW_ROOT.'files/books/asper/original', true, 0755);
+                $originaldir->copy(WWW_ROOT.'files/books/asper/'.$data['User']['username'].'/');
                 
                 $this->Session->write('username', $data['User']['username']);
                 
@@ -63,23 +63,19 @@ class UsersController extends AppController {
         }
     }
     
-    public function index(){
+    public function index(){        
         if(!$this->Session->check('username')){
             $this->redirect('/users');
             die();
         }
         
         $username = $this->Session->read('username');
-
-        //App::import('Xml'); 
-        //App::import('Xml');
-        $file = ROOT."/books/asper/".$username."/asper.xml"; 
-        $parsed_xml =& new XML($file); 
-        $parsed_xml = Set::reverse($parsed_xml);
-        debug($parsed_xml);
         
-        //var_dump($parsed_xml);
-        //die();
+        $books = $this->Book->find('all');
+        //var_dump($books); die();
+        
+        $this->set('user', $username);
+        $this->set('books', $books);
     }
 }
 

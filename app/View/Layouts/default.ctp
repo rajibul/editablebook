@@ -30,8 +30,12 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		echo $this->Html->meta('icon');
 
 		echo $this->Html->css('style');
+                echo $this->Html->css('book');
                 
                 echo $this->Html->script('jquery-1.8.0');
+                echo $this->Html->script('jquery.jeditable');
+                echo $this->Html->script('editimage');
+                echo $this->Html->script('common');
 		
 	?>
 </head>

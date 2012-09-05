@@ -1,0 +1,44 @@
+/* 
+    Document   : book
+    Created on : Sep 4, 2012, 12:46:52 PM
+    Author     : Manash
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+.book_pagination{
+    padding: 10px 0 10px 0;
+}
+.page_content{
+    background: white;
+    padding: 50px;
+    min-height: 300px;
+}
+.title{
+    padding-bottom: 15px;
+}
+.subtitle{
+    padding-bottom: 20px;
+}
+.author{
+    vertical-align: bottom;
+    margin-top: 190px;
+}
+
+.page_content p{
+    padding-bottom: 15px;
+}
+
+.book_section_text, .book_section_image{
+    padding-bottom: 20px;
+}
+.book_section_image{
+    text-align: center;
+}
+.editable_text{
+    background-color: #ff9;
+}
