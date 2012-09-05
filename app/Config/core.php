@@ -278,3 +278,5 @@ Cache::config('_cake_model_', array(
 	'serialize' => ($engine === 'File'),
 	'duration' => $duration
 ));
+
+Configure::write('base_url','http://'.$_SERVER['HTTP_HOST'].'/editablebook');
