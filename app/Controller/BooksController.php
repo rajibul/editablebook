@@ -58,14 +58,30 @@ class BooksController extends AppController {
             $this->set('invalid','Book does not exist');
         }
     }
-    public function edit(){        
+    public function edit(){    
+        $this->layout = '';
+        
         $value = $_POST['value'];
         $id_array = explode('_',$_POST['id']);
-        $book_id = $id_array[0];
-        $page_id = $id_array[1];
-        $section_id = $id_array[2];
+        $book_id = (int)$id_array[0];
+        $page_id = (int)$id_array[1];
+        $section_id = (int)$id_array[2];
         
-        var_dump($id_array); die();
+        $book = $this->Book->find('first', array('conditions' => array('Book.id' => $book_id)));
+        $username = $this->Session->read('username');
+        $xmlpath = Configure::read('base_url')."/app/webroot/files/books/".$book['Book']['name']."/".$username."/".$book['Book']['name'].".xml";
+        
+        
+        $xml2 = simplexml_load_file($xmlpath, 'SimpleXMLElement', LIBXML_NOCDATA);
+        //$xml = new SimpleXMLElement($xml2->asXML());
+//        var_dump($xml2); 
+//        die();
+        //var_dump($xml->page[$page_id]->section[$section_id-1]); 
+        //die();
+        $xml2->page[$page_id]->section[$section_id-1] = "<![CDATA[ ". $value ." ]]>";
+        $xml2->asXML(WWW_ROOT."files/books/".$book['Book']['name']."/".$username."/".$book['Book']['name'].".xml");
+               
+        $this->set('value', $value);
     }
 }
 
