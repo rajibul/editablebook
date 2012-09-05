@@ -1,0 +1,266 @@
+/* 
+    Document   : style.css
+    Created on : Aug 26, 2012, 3:01:24 PM
+    Author     : Manash
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,hr,pre,form,fieldset,img,input,textarea,p,blockquote,table,th,td {margin:0; padding:0;border:0;} 
+table {border-collapse:collapse; border-spacing:0;} 
+
+body 
+{
+	background:#c0c0c0;
+}
+
+
+h2
+{
+    margin-top:16px;
+	font-size: 20px;
+	font-weight: bold;
+}
+h3
+{
+    margin-top:12px;
+	font-size: 16px;
+	font-weight: bold;
+}
+hr 
+{
+    margin-top: 5px;
+    border: 0;
+    color: #ffffff;
+    background-color: #ffffff;
+    height: 2px;
+    width: 100%;
+    text-align: left;
+}
+a
+{
+    color:#0088ff;
+    font-weight:bold;
+    font-size:15px;
+    text-decoration:none;
+}
+a:hover
+{
+    text-decoration:underline;
+}
+#wrapper 
+{
+    padding:24px;
+
+    width:850px;
+    /* width:810px;               // IE hack */
+    margin-left: auto ;
+    margin-right: auto ;
+
+    color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+
+
+#header 
+{
+    height:48px;
+    /* height:40px;                // IE hack */    
+}
+#header .pagetitle  
+{
+	font-size: 40px;
+	font-weight: bold;
+    color:#ffffff;
+
+    float:left;
+}
+#header .strapline
+{
+ 	font-size: 16px;
+	font-weight: bold;
+    color:#ffffff;
+    
+    float:right;
+    padding-right: 5px;
+    padding-top: 22px;
+}
+
+
+#login 
+{
+    padding:5px;
+    padding-bottom:20px;
+    font-size:14px;
+    font-weight:bold;
+    color:#ffffff;
+}
+#login  a
+{
+    font-size:14px;
+}
+#login .txt_username, .txt_password 
+{
+    width:115px;
+    border: 1px solid #888888;
+}
+#login .btn_login 
+{
+    border: 1px solid #888888;
+    background:#ffffff;
+}
+#login .login_error 
+{
+    padding-left:210px;
+    color:#dd0000;
+}
+#login .welcome
+{
+    float:left;
+}
+#login .memberoptions
+{
+    float:right;
+    padding-right:4px;
+}
+#content 
+{
+    padding-top:12px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+
+
+
+
+#publish_book
+{
+    margin-top:32px;
+    margin-bottom:128px;
+    margin-right:64px;
+    text-align:center;
+}
+#publish_book img
+{
+    padding-top:64px;
+}
+#publish_book p
+{
+    padding-top:32px;
+}
+#publish_book .warn
+{
+    color:#dd0000;
+}
+#publish_book a
+{
+    font-size:20px;
+}
+
+
+
+
+#member_activity 
+{
+    padding-left:48px;
+    padding-right:24px;
+}
+#member_activity p
+{
+    margin-top:12px;
+}
+#member_activity td
+{
+    padding:2px;
+}
+#member_activity .txt_input
+{
+    width:280px;
+    border:1px solid #888888;
+}
+#member_activity .btn_submit
+{
+    width:130px;
+    border:1px solid #888888;
+}
+#member_activity .btn_cancel
+{
+    width:130px;
+    border:1px solid #888888;
+    margin-left:20px;
+}
+#member_activity .form_error
+{
+    font-size:15px;
+    font-weight:bold;
+    color:#dd0000;
+}
+
+
+
+
+
+
+#staticpage
+{
+    padding-left:48px;
+    padding-right:24px;
+}
+#staticpage p
+{
+    margin-top:12px;
+}
+#staticpage ul
+{
+    margin-left:48px;
+}
+
+
+
+
+#intro 
+{
+    color: #ffffff;
+    font-weight:bold;
+}
+#bookshelf
+{
+    padding-top:24px;
+}
+.book_info_col
+{
+    padding-left:24px;
+}
+.book_title
+{
+    font-weight:bold;
+    font-size: 20px;
+}
+.book_author
+{
+    font-weight:bold;
+    font-size: 15px;
+}
+.book_info
+{
+    margin-top:12px;
+}
+#footer
+{
+    margin-top:48px;
+    border-top:2px solid #ffffff;
+    padding-top:5px;
+    text-align:center;
+    font-weight:bold;
+    color:#ffffff;
+}
+
+

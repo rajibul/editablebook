@@ -1,0 +1,359 @@
+2012-08-26 15:54:51 Error: Fatal Error (1): Call to a member function link() on a non-object in [D:\xampp\htdocs\editablebook\app\View\Layouts\default.ctp, line 33]
+2012-08-26 15:54:51 Error: [FatalErrorException] Call to a member function link() on a non-object
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 33)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 33, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\xampp\htdocs...', 33, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-08-27 20:41:31 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:44:44 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:44:47 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:44:49 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:45:04 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:45:06 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:54:01 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 20:57:07 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/index')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/index', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(79): Controller->render('pages/index')
+#3 [internal function]: PagesController->index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 23:59:29 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\admin_index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/admin_ind...')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/admin_ind...', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(85): Controller->render('pages/admin_ind...')
+#3 [internal function]: PagesController->admin_index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 23:59:51 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\admin_index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/admin_ind...')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/admin_ind...', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(85): Controller->render('pages/admin_ind...')
+#3 [internal function]: PagesController->admin_index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-27 23:59:55 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\admin_index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/admin_ind...')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/admin_ind...', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(85): Controller->render('pages/admin_ind...')
+#3 [internal function]: PagesController->admin_index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-28 00:00:23 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\admin_index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/admin_ind...')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/admin_ind...', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(85): Controller->render('pages/admin_ind...')
+#3 [internal function]: PagesController->admin_index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-28 00:00:53 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Pages\pages\admin_index.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('pages/admin_ind...')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('pages/admin_ind...', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\PagesController.php(85): Controller->render('pages/admin_ind...')
+#3 [internal function]: PagesController->admin_index()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-08-31 14:10:50 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Users\users\signup.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName('users/signup')
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render('users/signup', NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\UsersController.php(22): Controller->render('users/signup')
+#3 [internal function]: UsersController->signup()
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-09-03 12:02:42 Error: Fatal Error (1): Call to undefined method Configure::corePaths() in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 20]
+2012-09-03 12:02:42 Error: [FatalErrorException] Call to undefined method Configure::corePaths()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 12:08:28 Error: Fatal Error (1): Call to undefined method Configure::corePaths() in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 20]
+2012-09-03 12:08:28 Error: [FatalErrorException] Call to undefined method Configure::corePaths()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 12:08:31 Error: Fatal Error (1): Call to undefined method Configure::corePaths() in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 20]
+2012-09-03 12:08:31 Error: [FatalErrorException] Call to undefined method Configure::corePaths()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 20, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:41:13 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 74]
+2012-09-03 14:41:13 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 74)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 74, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 74, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:41:41 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 76]
+2012-09-03 14:41:41 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:42:50 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-03 14:42:50 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:43:38 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-03 14:43:38 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:43:48 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-03 14:43:48 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:51:03 Error: Fatal Error (1): Class 'XmlHelper' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 76]
+2012-09-03 14:51:03 Error: [FatalErrorException] Class 'XmlHelper' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XmlHelpe...', 'D:\xampp\htdocs...', 76, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:52:25 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 14:52:25 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:53:08 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 14:53:08 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:58:21 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 14:58:21 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:59:24 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 14:59:24 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 14:59:37 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 14:59:37 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 15:03:19 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 76]
+2012-09-03 15:03:19 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 76)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 76, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 76, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 15:03:43 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 15:03:43 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 15:03:55 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 75]
+2012-09-03 15:03:55 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 75, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 15:08:12 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-03 15:08:12 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-03 18:43:26 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-03 18:43:26 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 10:48:33 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 C:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-09-05 10:51:25 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 10:51:25 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 10:52:57 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 10:52:57 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 10:53:00 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 10:53:00 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 10:53:05 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 10:53:05 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 10:53:07 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 10:53:07 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 11:20:52 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 11:20:52 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 11:21:36 Error: Fatal Error (1): Class 'XML' not found in [C:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 11:21:36 Error: [FatalErrorException] Class 'XML' not found
+#0 C:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#2 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'C:\xampp\htdocs...', 77, Array)
+#3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
