@@ -49,17 +49,14 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 
 <hr/>
 
-<div id="login">    
-    <?php echo $this->Html->link('Signup', '/users/signup'); ?>
-    &nbsp;|&nbsp;
-    <a href="index.php?forgotpw=1">Forgot password</a> &nbsp;|&nbsp; 
-    <?php echo $this->Form->create(null, array('url' => '/users/login', 'type' => 'post')); ?>
-    Username: <input name="data[User][username]" class="txt_username" type="text" value=""> &nbsp;
-    Password: <input name="data[User][password]" class="txt_password" type="password" value=""> &nbsp;
-    Remember me: <input name="auto" type="checkbox"> &nbsp; 
-    <input value="Login" class="btn_login" type="submit" />
-    <?php echo $this->Form->end(); ?>
-</div>
+<?php
+    if($this->Session->check('username')){
+        echo $this->element('user_header',array('username' => $this->Session->read('username')));
+    }else{
+        echo $this->element('login_panel');
+    }
+?>
+<?php //echo $this->element('login_panel'); ?> 
 
 <div class="flash flash_success">
     <?php if(isset($message)){ echo $message; } ?>
@@ -69,13 +66,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
     <?php echo $this->fetch('content'); ?>
 </div>
 <div id="footer">
-<a href="index.php">Home</a> &nbsp;|&nbsp; 
-<a href="index.php?q=about">About</a> &nbsp;|&nbsp; 
-<a href="index.php?q=contact">Contact</a> &nbsp;|&nbsp;
-<a href="index.php?q=help">Help / FAQ</a> &nbsp;|&nbsp;
-<a href="index.php?q=privacy">Privacy Policy</a> &nbsp;|&nbsp;
-<a href="index.php?q=tos">Terms of Service</a> &nbsp;|&nbsp;
-<a href="index.php?q=tou">Terms of Use</a> 
+    <?php echo $this->element('footer'); ?> 
 </div>
 
 </div>

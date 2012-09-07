@@ -26,10 +26,8 @@ class UsersController extends AppController {
             $data = $this->data;
             $data['User']['isActivated'] = 1;
             $data['User']['password'] = md5($data['User']['password']);
-//            var_dump($data);
-//            die();
+
             if($this->User->save($data)) {
-                //$newdir = new Folder(ROOT.'/books/asper/'.$data['User']['username'].'/', true, 0755);
                 $originaldir = new Folder(WWW_ROOT.'files/books/asper/original', true, 0755);
                 $originaldir->copy(WWW_ROOT.'files/books/asper/'.$data['User']['username'].'/');
                 
@@ -47,8 +45,6 @@ class UsersController extends AppController {
     public function login(){
         if(!empty ($this->data)){
             $user = $this->User->find('first', array('conditions' => array('User.username' => $this->data['User']['username'], 'User.password' => md5($this->data['User']['password']))));
-//            var_dump($user['User']['id']);
-//            die();
             if(empty($user)){
                 $this->Session->setFlash("Login Error. Check your username and password");
                 $this->redirect('/pages');
@@ -63,19 +59,38 @@ class UsersController extends AppController {
         }
     }
     
+    public function logout(){
+        $this->Session->delete('username');
+        $this->Session->delete('userid');
+        $this->Session->destroy();
+        $this->Session->setFlash("You have been logged out");
+        $this->redirect('/pages');
+    }
+
+
     public function index(){        
         if(!$this->Session->check('username')){
-            $this->redirect('/users');
+            $this->redirect('/pages');
             die();
         }
         
         $username = $this->Session->read('username');
         
         $books = $this->Book->find('all');
-        //var_dump($books); die();
         
         $this->set('user', $username);
         $this->set('books', $books);
+    }
+    
+    public function check_username($username = ''){
+        $this->layout = '';
+        $user = $this->User->find('first', array('conditions' => array('User.username' => $username)));
+        if(!empty($user)){
+            return 'yes';
+        }else{
+            return 'no';
+        }
+        die();
     }
 }
 

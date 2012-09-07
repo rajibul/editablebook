@@ -1,8 +1,8 @@
-<div>
-<?php echo $this->Form->create('Users', array('type' => 'post')); ?>
-    <table width="50%" height="50%">
+<div id="signup">
+<?php echo $this->Form->create('Users', array('type' => 'post', 'id' => 'frmsignup', 'name' => 'frmsignup')); ?>
+    <table width="100%">
         <tr>
-            <td>Username :</td>
+            <td width="30%">Username :</td>
             <td><input type="text" name="data[User][username]" id="UserUsername" value="" /></td>
         </tr>
         <tr>
@@ -24,3 +24,4 @@
     </table>
 <?php echo $this->Form->end(); ?>
 </div>
+<input type="hidden" id="base_url" value="<?=  Configure::read('base_url')?>" />

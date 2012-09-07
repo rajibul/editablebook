@@ -69283,3 +69283,1484 @@ Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
 Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
 [main] - APP\webroot\index.php, line 92
 
+2012-09-07 20:14:18 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:14:18 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:26:41 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:26:41 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:26:41 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:26:41 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:27:25 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:27:25 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:27:27 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:27:27 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:28:59 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:28:59 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:29:50 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:29:50 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:05 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:05 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:08 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:08 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:13 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:30:13 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:09 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:09 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:19 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:19 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:19 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:19 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:23 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:30 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:30 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:33 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:33 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:39 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:32:39 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:09 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:09 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:12 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:12 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:12 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:46:12 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:48:58 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:48:58 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:49:03 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:49:03 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:49:41 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:49:41 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:51:41 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:51:41 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:51:43 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:51:43 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:52:30 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:52:30 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:52:31 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 20:52:31 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:10:05 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:10:05 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:10:07 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:10:07 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:12:38 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:12:38 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:12:40 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:12:40 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:13:20 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:13:20 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:12 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:12 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:51 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:51 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:52 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:15:52 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:34:57 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:34:57 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:34:59 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:34:59 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:35:05 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:35:05 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:18 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:18 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:25 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:25 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:34 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:37:34 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:14 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:14 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:15 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:15 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:20 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:20 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:45 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:45 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:46 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:46 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:50 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:38:50 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:39:10 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:39:10 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:39:16 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:39:16 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:16 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:16 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:22 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:22 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:36 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:36 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:38 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:38 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:44 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:44 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:55 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:55 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:56 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:40:56 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:03 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:03 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:14 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:14 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:15 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:15 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:20 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 21:41:20 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:38 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:38 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:39 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:39 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:45 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:37:45 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:13 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:13 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:21 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:21 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:49 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:38:49 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:12 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:12 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:39 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:39 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:40 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:40 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:47 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:39:47 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:34 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:34 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:36 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:36 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:42 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:42 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:56 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:40:56 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:02 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:02 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:31 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:31 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:33 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:33 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:40 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:41:40 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:16 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:16 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:18 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:18 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:22 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:45:22 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:05 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:05 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:07 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:07 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:14 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:46:14 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:00 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:00 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:06 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:06 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:11 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:48:11 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:49:57 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:49:57 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:49:59 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:49:59 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:03 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:03 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:35 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:35 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:39 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:39 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:43 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:50:43 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:19 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:19 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:23 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:23 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:56 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:56 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:58 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:51:58 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:52:02 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:52:02 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:16 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:16 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:40 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:40 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:40 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:40 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:44 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:47 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:47 Debug: Notice (8): Undefined index: @ in [D:\xampp\htdocs\editablebook\app\View\Books\index.ctp, line 34]
+Trace:
+include - APP\View\Books\index.ctp, line 34
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:49 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:56 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:54:59 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:55:05 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:55:05 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:55:07 Debug: Notice (8): Use of undefined constant User - assumed 'User' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+
+2012-09-07 22:55:07 Debug: Notice (8): Use of undefined constant Book - assumed 'Book' in [D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php, line 242]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE\Cake\Routing\Dispatcher.php, line 242
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 152
+[main] - APP\webroot\index.php, line 92
+

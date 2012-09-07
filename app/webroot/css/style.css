@@ -263,4 +263,11 @@ a:hover
     color:#ffffff;
 }
 
-
+.user_header{
+    font-weight: bold;
+    text-align: right;
+}
+.signup_error{
+    margin-left: 15px;
+    padding-left: 5px;
+}
