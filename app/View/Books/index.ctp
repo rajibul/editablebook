@@ -29,6 +29,27 @@
             <div class="subtitle" style="<?=$page_content['subtitle']['@font']?>"><?=htmlentities($page_content['subtitle']['@'])?></div>
             <div class="author" style="<?=$page_content['author']['@font']?>"><?=htmlentities($page_content['author']['@'])?></div>
 <?php    
+        }elseif($page_content['@id'] == 1){
+?>
+            <div style="font-size: 24px; text-align: center;padding: 5px 0 15px 0;">Preface</div>
+            <div>
+                <p>The implementation of the Disability Discrimination Act, and its requirement that employers must make reasonable adjustments to enable disabled employees to attain to their full potential in the workplace, has made a major impact in recent years. Many employers now have a good understanding of the needs of a wide range of disabled people, and what they need to do to meet those needs.</p>
+                <p>However, understanding of the needs of people on the autistic spectrum, including those with Asperger syndrome (AS), is far less widespread. The fact is that people on the spectrum are hard-wired to interact differently in social situations, and problems can arise if the people around them - purely through ignorance or unfamiliarity - react badly to their non-standard behaviours.</p>
+                <p>Now, a short book has been written which helps to avoid this. The clear and simple illustrations show colleagues how the world can appear to the employee with AS, and demonstrate how small changes in approach can transform workplace relationships. The book gives colleagues a range of strategies to bridge the gap between the two perspectives; and in doing so, it will make the workplace a richer and more productive environment for everybody.</p>
+                <table width="100%">
+                    <tr>
+                        <td align="left" valign="middle">
+                            David Perkins <br/>
+                            Director,<br/>
+                            Prospects (London)
+                        </td>
+                        <td align="right" valign="top">
+                            <img src="<?=$image_path?>img/preface.jpg" width="120"  />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+<?php          
         }elseif($page_content['@editable'] == 0){
     ?>
             <div class="noneditable"><?=html_entity_decode(htmlentities($page_content['section']['@']))?></div>
