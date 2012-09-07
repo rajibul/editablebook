@@ -8,14 +8,25 @@
 $(document).ready(function() {
     //$('#editable_image').editFaceBook();
 
-//    $(".editable_text" ).eip( "http://localhost/editablebook/books/edit", {
+//    $(".editable_text" ).eip($("#base_url").val()+'/books/edit', {
 //        form_type: "textarea"
 //    } );
-    $('.editable_text').editable($("#base_url").val()+'/books/edit', { 
+    $('.editable_text').editable($("#base_url").val()+'/books/edit', {
          type      : 'textarea',
          cancel    : 'Cancel',
          submit    : 'OK',
-         //indicator : '<img src="img/indicator.gif">',
-         tooltip   : 'Click to edit...'
+         tooltip   : 'Click to edit...',
+         cssclass  : 'inherited'
+     });
+     
+     $(".publish").click(function() {
+         //alert(this.id);
+         $.ajax({
+            url: $("#base_url").val()+'/books/pdf/' + this.id,
+            success: function(data) {
+                $('.result').html(data);
+                alert(data);
+            }
+        });
      });
 });

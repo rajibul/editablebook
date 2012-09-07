@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!--
-    Document   : asper.xml
-    Created on : August 31, 2012, 11:55 AM
-    Author     : Manash
-    Description:
-        Purpose of the document follows.
--->
-
 <book id="1">
     <pagecount>42</pagecount>
     
@@ -28,241 +19,391 @@
     
     <page id="2" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, you can <i>intuitively</i> 'read' people, but we can't easily tell what mood you're in - like whether you're upset or happy...]]></section>
-        <section id="2" type="image" editable="1">img/p2.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p2.png</path>
+            <text position="0_0_0_0">You look happy today!</text>
+            <text position="0_0_0_0">Grrr!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...which can make us seem insensitive. Some people even assume we are annoyed with them!]]></section>
     </page>
     
     <page id="3" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We can't easily tell if you are bored, tired, or embarrassed...]]></section>
-        <section id="2" type="image" editable="1">img/p3.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p3.png</path>
+            <text position="0_0_0_0">... and another thing you probably want to know</text>
+            <text position="0_0_0_0">Umhh...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[and so we might keep on talking when you think we should stop.]]></section>
     </page>
     
     <page id="4" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't 'register' the 'rules' of conversation]]></section>
-        <section id="2" type="image" editable="1">img/p4.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p4.png</path>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...so we might interrupt, or break the flow, or introduce topics out of place.]]></section>
     </page>
     
     <page id="5" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Aspers don't 'see' these 'rules' of conversation - and can't learn them like you do. We forever guess! ]]></section>
-        <section id="2" type="image" editable="1">img/p5.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p5.png</path>
+            <text position="0_0_0_0">1. listen first <br /> 2. wait for a purpose <br /> 3. keep to the topic</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[But some of us work out other ways to get by. Like sets of rules with our own special logic. ]]></section>
     </page>
     
     <page id="6" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Sometimes these behaviours don't really bother other people. Sometimes they do... ]]></section>
-        <section id="2" type="image" editable="1">img/p6.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p6.png</path>
+            <text position="0_0_0_0">Wow! He's a little different; interesting...</text>
+            <text position="0_0_0_0">Ugh! He always barges in; aggressive person!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...especially if people think we are being deliberately rude or thoughtless. ]]></section>
     </page>
     
     <page id="7" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[But Aspers are effectively born unable to see social nuances intuitively - whatever other skills or gifts we have. ]]></section>
-        <section id="2" type="image" editable="1">img/p7.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p7.png</path>
+            <text position="0_0_0_0">So, you're the maths whizz... What do you think of your new boss?</text>
+            <text position="0_0_0_0">He manages budgets well but I don't see any signs of leadership yet.</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We may come up with complex ways to 'get by' in social interactions, but we are often forced to just 'wing it' - sometimes several times each conversation! ]]></section>
     </page>
     
     <page id="8" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, we may have to guess which tone and body language to use when we're speaking. ]]></section>
-        <section id="2" type="image" editable="1">img/p8.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p8.png</path>
+            <text position="0_0_0_0">Where are the clipboards kept?</text>
+            <text position="0_0_0_0">The same place as the stationary, of course!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...and if we get it wrong we could sound arrogant or condescending or cold hearted... and not know it. ]]></section>
     </page>
     
     <page id="9" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't easily know when to smile, or laugh, or offer sympathy; it may look artificial when we try. We won't know if your story is meant to be sad or funny. ]]></section>
-        <section id="2" type="image" editable="1">img/p9.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p9.png</path>
+            <text position="0_0_0_0">My wife broke her leg yesterday!</text>
+            <text position="0_0_0_0">I am so sorry fo her!</text>
+            <text position="0_0_0_0">I wonder if that's the right thing to say...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We often automatically look away when talking or listening. Some don't make eye contact at all. Others stare constantly. ]]></section>
     </page>
     
     <page id="10" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, you can intuitively 'read' people, but we can't easily tell what mood you're in - like whether you're upset or angry - ]]></section>
-        <section id="2" type="image" editable="1">img/p2.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p2.png</path>
+            <text position="0_0_0_0">You look happy today!</text>
+            <text position="0_0_0_0">Grrr!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...which can make us seem insensitive. Some people even assume we are annoyed with them! ]]></section>
     </page>
     
     <page id="11" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We can't easily tell if you are bored, tired, or embarrassed... ]]></section>
-        <section id="2" type="image" editable="1">img/p3.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p3.png</path>
+            <text position="0_0_0_0">... and another thing you probably want to know</text>
+            <text position="0_0_0_0">Umhh...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[and so we might keep on talking when you think we should stop. ]]></section>
     </page>
     
     <page id="12" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't 'register' the 'rules' of conversation ]]></section>
-        <section id="2" type="image" editable="1">img/p4.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p4.png</path>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...so we might interrupt, or break the flow, or introduce topics out of place. ]]></section>
     </page>
     
     <page id="13" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Aspers don't 'see' these 'rules' of conversation - and can't learn them like you do. We forever guess! ]]></section>
-        <section id="2" type="image" editable="1">img/p5.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p5.png</path>
+            <text position="0_0_0_0">1. listen first <br /> 2. wait for a purpose <br /> 3. keep to the topic</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[But some of us work out other ways to get by. Like sets of rules with our own special logic. ]]></section>
     </page>
     
     <page id="14" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Sometimes these behaviours don't really bother other people. Sometimes they do... ]]></section>
-        <section id="2" type="image" editable="1">img/p6.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p6.png</path>
+            <text position="0_0_0_0">Wow! He's a little different; interesting...</text>
+            <text position="0_0_0_0">Ugh! He always barges in; aggressive person!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...especially if people think we are being deliberately rude or thoughtless. ]]></section>
     </page>
     
     <page id="15" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[But Aspers are effectively born unable to see social nuances intuitively - whatever other skills or gifts we have. ]]></section>
-        <section id="2" type="image" editable="1">img/p7.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p7.png</path>
+            <text position="0_0_0_0">So, you're the maths whizz... What do you think of your new boss?</text>
+            <text position="0_0_0_0">He manages budgets well but I don't see any signs of leadership yet.</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We may come up with complex ways to 'get by' in social interactions, but we are often forced to just 'wing it' - sometimes several times each conversation! ]]></section>
     </page>
     
     <page id="16" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, we may have to guess which tone and body language to use when we're speaking... ]]></section>
-        <section id="2" type="image" editable="1">img/p8.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p8.png</path>
+            <text position="0_0_0_0">Where are the clipboards kept?</text>
+            <text position="0_0_0_0">The same place as the stationary, of course!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...and if we get it wrong we could sound arrogant or condescending or cold hearted... and not know it. ]]></section>
     </page>
     
     <page id="17" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't easily know when to smile, or laugh, or offer sympathy; it may look artificial when we try. We won't know if your story is meant to be sad or funny. ]]></section>
-        <section id="2" type="image" editable="1">img/p9.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p9.png</path>
+            <text position="0_0_0_0">My wife broke her leg yesterday!</text>
+            <text position="0_0_0_0">I am so sorry fo her!</text>
+            <text position="0_0_0_0">I wonder if that's the right thing to say...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We often automatically look away when talking or listening. Some don't make eye contact at all. Others stare constantly. ]]></section>
     </page>
     
     <page id="18" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, you can intuitively 'read' people, but we can't easily tell what mood you're in - like whether you're upset or angry - ]]></section>
-        <section id="2" type="image" editable="1">img/p2.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p2.png</path>
+            <text position="0_0_0_0">You look happy today!</text>
+            <text position="0_0_0_0">Grrr!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...which can make us seem insensitive. Some people even assume we are annoyed with them! ]]></section>
     </page>
     
     <page id="19" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We can't easily tell if you are bored, tired, or embarrassed... ]]></section>
-        <section id="2" type="image" editable="1">img/p3.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p3.png</path>
+            <text position="0_0_0_0">... and another thing you probably want to know</text>
+            <text position="0_0_0_0">Umhh...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[and so we might keep on talking when you think we should stop. ]]></section>
     </page>
     
     <page id="20" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't 'register' the 'rules' of conversation ]]></section>
-        <section id="2" type="image" editable="1">img/p4.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p4.png</path>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...so we might interrupt, or break the flow, or introduce topics out of place. ]]></section>
     </page>
     
     <page id="21" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Aspers don't 'see' these 'rules' of conversation - and can't learn them like you do. We forever guess! ]]></section>
-        <section id="2" type="image" editable="1">img/p5.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p5.png</path>
+            <text position="0_0_0_0">1. listen first <br /> 2. wait for a purpose <br /> 3. keep to the topic</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[But some of us work out other ways to get by. Like sets of rules with our own special logic. ]]></section>
     </page>
     
     <page id="22" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Sometimes these behaviours don't really bother other people. Sometimes they do... ]]></section>
-        <section id="2" type="image" editable="1">img/p6.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p6.png</path>
+            <text position="0_0_0_0">Wow! He's a little different; interesting...</text>
+            <text position="0_0_0_0">Ugh! He always barges in; aggressive person!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...especially if people think we are being deliberately rude or thoughtless. ]]></section>
     </page>
     
     <page id="23" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[But Aspers are effectively born unable to see social nuances intuitively - whatever other skills or gifts we have. ]]></section>
-        <section id="2" type="image" editable="1">img/p7.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p7.png</path>
+            <text position="0_0_0_0">So, you're the maths whizz... What do you think of your new boss?</text>
+            <text position="0_0_0_0">He manages budgets well but I don't see any signs of leadership yet.</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We may come up with complex ways to 'get by' in social interactions, but we are often forced to just 'wing it' - sometimes several times each conversation! ]]></section>
     </page>
     
     <page id="24" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, we may have to guess which tone and body language to use when we're speaking... ]]></section>
-        <section id="2" type="image" editable="1">img/p8.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p8.png</path>
+            <text position="0_0_0_0">Where are the clipboards kept?</text>
+            <text position="0_0_0_0">The same place as the stationary, of course!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...and if we get it wrong we could sound arrogant or condescending or cold hearted... and not know it. ]]></section>
     </page>
     
     <page id="25" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't easily know when to smile, or laugh, or offer sympathy; it may look artificial when we try. We won't know if your story is meant to be sad or funny. ]]></section>
-        <section id="2" type="image" editable="1">img/p9.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p9.png</path>
+            <text position="0_0_0_0">My wife broke her leg yesterday!</text>
+            <text position="0_0_0_0">I am so sorry fo her!</text>
+            <text position="0_0_0_0">I wonder if that's the right thing to say...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We often automatically look away when talking or listening. Some don't make eye contact at all. Others stare constantly. ]]></section>
     </page>
     
     <page id="26" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, you can intuitively 'read' people, but we can't easily tell what mood you're in - like whether you're upset or angry - ]]></section>
-        <section id="2" type="image" editable="1">img/p2.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p2.png</path>
+            <text position="0_0_0_0">You look happy today!</text>
+            <text position="0_0_0_0">Grrr!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...which can make us seem insensitive. Some people even assume we are annoyed with them! ]]></section>
     </page>
     
     <page id="27" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We can't easily tell if you are bored, tired, or embarrassed... ]]></section>
-        <section id="2" type="image" editable="1">img/p3.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p3.png</path>
+            <text position="0_0_0_0">... and another thing you probably want to know</text>
+            <text position="0_0_0_0">Umhh...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[and so we might keep on talking when you think we should stop. ]]></section>
     </page>
     
     <page id="28" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't 'register' the 'rules' of conversation ]]></section>
-        <section id="2" type="image" editable="1">img/p4.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p4.png</path>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...so we might interrupt, or break the flow, or introduce topics out of place. ]]></section>
     </page>
     
     <page id="29" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Aspers don't 'see' these 'rules' of conversation - and can't learn them like you do. We forever guess! ]]></section>
-        <section id="2" type="image" editable="1">img/p5.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p5.png</path>
+            <text position="0_0_0_0">1. listen first <br /> 2. wait for a purpose <br /> 3. keep to the topic</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[But some of us work out other ways to get by. Like sets of rules with our own special logic. ]]></section>
     </page>
     
     <page id="30" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Sometimes these behaviours don't really bother other people. Sometimes they do... ]]></section>
-        <section id="2" type="image" editable="1">img/p6.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p6.png</path>
+            <text position="0_0_0_0">Wow! He's a little different; interesting...</text>
+            <text position="0_0_0_0">Ugh! He always barges in; aggressive person!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...especially if people think we are being deliberately rude or thoughtless. ]]></section>
     </page>
     
     <page id="31" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[But Aspers are effectively born unable to see social nuances intuitively - whatever other skills or gifts we have. ]]></section>
-        <section id="2" type="image" editable="1">img/p7.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p7.png</path>
+            <text position="0_0_0_0">So, you're the maths whizz... What do you think of your new boss?</text>
+            <text position="0_0_0_0">He manages budgets well but I don't see any signs of leadership yet.</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We may come up with complex ways to 'get by' in social interactions, but we are often forced to just 'wing it' - sometimes several times each conversation! ]]></section>
     </page>
     
     <page id="32" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, we may have to guess which tone and body language to use when we're speaking... ]]></section>
-        <section id="2" type="image" editable="1">img/p8.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p8.png</path>
+            <text position="0_0_0_0">Where are the clipboards kept?</text>
+            <text position="0_0_0_0">The same place as the stationary, of course!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...and if we get it wrong we could sound arrogant or condescending or cold hearted... and not know it. ]]></section>
     </page>
     
     <page id="33" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't easily know when to smile, or laugh, or offer sympathy; it may look artificial when we try. We won't know if your story is meant to be sad or funny. ]]></section>
-        <section id="2" type="image" editable="1">img/p9.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p9.png</path>
+            <text position="0_0_0_0">My wife broke her leg yesterday!</text>
+            <text position="0_0_0_0">I am so sorry fo her!</text>
+            <text position="0_0_0_0">I wonder if that's the right thing to say...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We often automatically look away when talking or listening. Some don't make eye contact at all. Others stare constantly. ]]></section>
     </page>
     
     <page id="34" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, you can intuitively 'read' people, but we can't easily tell what mood you're in - like whether you're upset or angry - ]]></section>
-        <section id="2" type="image" editable="1">img/p2.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p2.png</path>
+            <text position="0_0_0_0">You look happy today!</text>
+            <text position="0_0_0_0">Grrr!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...which can make us seem insensitive. Some people even assume we are annoyed with them! ]]></section>
     </page>
     
     <page id="35" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We can't easily tell if you are bored, tired, or embarrassed... ]]></section>
-        <section id="2" type="image" editable="1">img/p3.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p3.png</path>
+            <text position="0_0_0_0">... and another thing you probably want to know</text>
+            <text position="0_0_0_0">Umhh...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[and so we might keep on talking when you think we should stop. ]]></section>
     </page>
     
     <page id="36" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't 'register' the 'rules' of conversation ]]></section>
-        <section id="2" type="image" editable="1">img/p4.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p4.png</path>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...so we might interrupt, or break the flow, or introduce topics out of place. ]]></section>
     </page>
     
     <page id="37" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Aspers don't 'see' these 'rules' of conversation - and can't learn them like you do. We forever guess! ]]></section>
-        <section id="2" type="image" editable="1">img/p5.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p5.png</path>
+            <text position="0_0_0_0">1. listen first <br /> 2. wait for a purpose <br /> 3. keep to the topic</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[But some of us work out other ways to get by. Like sets of rules with our own special logic. ]]></section>
     </page>
     
     <page id="38" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[Sometimes these behaviours don't really bother other people. Sometimes they do... ]]></section>
-        <section id="2" type="image" editable="1">img/p6.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p6.png</path>
+            <text position="0_0_0_0">Wow! He's a little different; interesting...</text>
+            <text position="0_0_0_0">Ugh! He always barges in; aggressive person!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...especially if people think we are being deliberately rude or thoughtless. ]]></section>
     </page>
     
     <page id="39" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[But Aspers are effectively born unable to see social nuances intuitively - whatever other skills or gifts we have. ]]></section>
-        <section id="2" type="image" editable="1">img/p7.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p7.png</path>
+            <text position="0_0_0_0">So, you're the maths whizz... What do you think of your new boss?</text>
+            <text position="0_0_0_0">He manages budgets well but I don't see any signs of leadership yet.</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We may come up with complex ways to 'get by' in social interactions, but we are often forced to just 'wing it' - sometimes several times each conversation! ]]></section>
     </page>
     
     <page id="40" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[For example, we may have to guess which tone and body language to use when we're speaking... ]]></section>
-        <section id="2" type="image" editable="1">img/p8.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p8.png</path>
+            <text position="0_0_0_0">Where are the clipboards kept?</text>
+            <text position="0_0_0_0">The same place as the stationary, of course!</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[...and if we get it wrong we could sound arrogant or condescending or cold hearted... and not know it. ]]></section>
     </page>
     
     <page id="41" editable="1">
         <section id="1" type="text" editable="1"><![CDATA[We don't easily know when to smile, or laugh, or offer sympathy; it may look artificial when we try. We won't know if your story is meant to be sad or funny. ]]></section>
-        <section id="2" type="image" editable="1">img/p9.png</section>
+        <section id="2" type="image" editable="1">
+            <path>img/p9.png</path>
+            <text position="0_0_0_0">My wife broke her leg yesterday!</text>
+            <text position="0_0_0_0">I am so sorry fo her!</text>
+            <text position="0_0_0_0">I wonder if that's the right thing to say...</text>
+        </section>
         <section id="3" type="text" editable="1"><![CDATA[We often automatically look away when talking or listening. Some don't make eye contact at all. Others stare constantly. ]]></section>
     </page>
     

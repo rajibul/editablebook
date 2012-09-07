@@ -38,7 +38,19 @@
 }
 .book_section_image{
     text-align: center;
+    position: relative;
+}
+.image_text{
+    position: absolute;
 }
 .editable_text{
     background-color: #ff9;
+    padding: 5px;
 }
+
+textarea{
+    border-color: #ff9;
+}
+/*span.editable_text{
+    background-color: #fff;
+}*/

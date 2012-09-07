@@ -357,3 +357,140 @@
 #3 C:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2012-09-05 20:48:25 Error: Fatal Error (1): Class 'XML' not found in [D:\xampp\htdocs\editablebook\app\Controller\UsersController.php, line 77]
+2012-09-05 20:48:25 Error: [FatalErrorException] Class 'XML' not found
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Class 'XML' not...', 'D:\xampp\htdocs...', 77, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-05 21:57:09 Error: [Exception] String could not be parsed as XML
+#0 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(72): SimpleXMLElement->__construct('http://localhos...')
+#1 [internal function]: BooksController->edit()
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-09-05 21:58:47 Error: [Exception] String could not be parsed as XML
+#0 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(72): SimpleXMLElement->__construct('http://localhos...')
+#1 [internal function]: BooksController->edit()
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-09-05 22:00:26 Error: [Exception] String could not be parsed as XML
+#0 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(74): SimpleXMLElement->__construct('http://localhos...')
+#1 [internal function]: BooksController->edit()
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-09-05 22:07:51 Error: [Exception] String could not be parsed as XML
+#0 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(74): SimpleXMLElement->__construct('?    ?    ?    ...')
+#1 [internal function]: BooksController->edit()
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#5 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2012-09-05 23:19:47 Error: Fatal Error (1): Call to undefined method SimpleXMLElement::addCData() in [D:\xampp\htdocs\editablebook\app\Controller\BooksController.php, line 82]
+2012-09-05 23:19:47 Error: [FatalErrorException] Call to undefined method SimpleXMLElement::addCData()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 82)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 82, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 82, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-06 14:35:05 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\generate_pdf.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(91): Controller->render()
+#3 [internal function]: BooksController->generate_pdf('1_manash')
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-09-06 14:35:07 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\generate_pdf.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(91): Controller->render()
+#3 [internal function]: BooksController->generate_pdf('1_manash')
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-09-06 14:35:09 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\generate_pdf.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(91): Controller->render()
+#3 [internal function]: BooksController->generate_pdf('1_manash')
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-09-06 14:35:14 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\generate_pdf.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\app\Controller\BooksController.php(91): Controller->render()
+#3 [internal function]: BooksController->generate_pdf('1_manash')
+#4 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(BooksController), Array)
+#5 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#7 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-09-06 14:53:22 Error: [MissingActionException] Action BooksController::generate_pdf() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-06 14:54:10 Error: [MissingActionException] Action BooksController::generate_pdf() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-06 14:54:29 Error: [MissingActionException] Action BooksController::generate_pdf() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-07 11:57:31 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-09-07 12:48:15 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-07 12:48:36 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-07 12:50:15 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-07 13:05:12 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [D:\xampp\htdocs\editablebook\lib\Cake\Utility\String.php, line 240]
+2012-09-07 13:05:12 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'D:\xampp\htdocs...', 240)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'D:\xampp\htdocs...', 240, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'D:\xampp\htdocs...', 240, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-07 13:05:33 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [D:\xampp\htdocs\editablebook\lib\Cake\Utility\Debugger.php, line 361]
+2012-09-07 13:05:33 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'D:\xampp\htdocs...', 361)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'D:\xampp\htdocs...', 361, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'D:\xampp\htdocs...', 361, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
