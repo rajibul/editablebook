@@ -642,3 +642,453 @@
 #3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
 #4 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #5 {main}
+2012-09-08 15:17:56 Error: Fatal Error (1): Call to a member function setPrintHeader() on a non-object in [D:\xampp\htdocs\editablebook\app\View\Books\pdf.ctp, line 13]
+2012-09-08 15:17:56 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-08 15:18:47 Error: Fatal Error (1): Call to a member function setPrintHeader() on a non-object in [D:\xampp\htdocs\editablebook\app\View\Books\pdf.ctp, line 13]
+2012-09-08 15:18:47 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-08 15:18:57 Error: Fatal Error (1): Call to a member function setPrintHeader() on a non-object in [D:\xampp\htdocs\editablebook\app\View\Books\pdf.ctp, line 13]
+2012-09-08 15:18:57 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\xampp\htdocs...', 13, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-08 16:02:41 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3119]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3119
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:02:41 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3120]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3120
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:02:41 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3133]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3133
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:03:10 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3119]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3119
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:03:10 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3120]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3120
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:03:10 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 3133]
+Trace:
+TCPDF::setPageOrientation() - APP\Vendor\tcpdf\tcpdf.php, line 3133
+TCPDF::_beginpage() - APP\Vendor\tcpdf\tcpdf.php, line 13150
+TCPDF::startPage() - APP\Vendor\tcpdf\tcpdf.php, line 4086
+TCPDF::AddPage() - APP\Vendor\tcpdf\tcpdf.php, line 4006
+include - APP\View\Books\pdf.ctp, line 21
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:09:00 Error: Fatal Error (1): Call to a member function SetAutoPageBreak() on a non-object in [D:\xampp\htdocs\editablebook\app\View\Books\pdf.ctp, line 15]
+2012-09-08 16:09:00 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 15)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'D:\xampp\htdocs...', 15, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'D:\xampp\htdocs...', 15, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-08 16:16:12 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:16:12 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:33:19 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:33:19 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:38:49 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:38:49 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:39:55 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:39:55 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:41:43 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:41:43 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:43:14 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:43:14 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:44:28 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:44:28 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 67
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:47:12 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:47:12 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:48:41 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:48:41 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:50:36 Warning: Warning (2): Division by zero in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22992]
+Trace:
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22992
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+
+2012-09-08 16:50:36 Warning: Warning (2): array_fill() [<a href='http://php.net/function.array-fill'>function.array-fill</a>]: Number of elements must be positive in [D:\xampp\htdocs\editablebook\app\Vendor\tcpdf\tcpdf.php, line 22994]
+Trace:
+array_fill - [internal], line ??
+TCPDF::writeHTML() - APP\Vendor\tcpdf\tcpdf.php, line 22994
+include - APP\View\Books\pdf.ctp, line 69
+View::_evaluate() - CORE\Cake\View\View.php, line 920
+View::_render() - CORE\Cake\View\View.php, line 883
+View::render() - CORE\Cake\View\View.php, line 475
+Controller::render() - CORE\Cake\Controller\Controller.php, line 957
+BooksController::pdf() - APP\Controller\BooksController.php, line 107
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 92
+

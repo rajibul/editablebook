@@ -99,9 +99,10 @@ class BooksController extends AppController {
         $file = WWW_ROOT."files/books/".$book['Book']['name']."/".$username."/".$book['Book']['name'].".xml";    
         $xmlArray = Xml::toArray(Xml::build($file));
         $this->set('pages', $xmlArray['book']['page']);
-        var_dump($xmlArray['book']['page']);
-        die();
-            
+//        var_dump($xmlArray['book']['page']);
+//        die();
+        
+        $this->set('image_path',"../../app/webroot/files/books/".$book['Book']['name']."/".$username."/");
         $this->layout = 'pdf';
         $this->render(); 
     }

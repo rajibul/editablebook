@@ -7,7 +7,9 @@
 ?>
 
 <div class="publsih_link">
-    <span><a href="#" id="<?=$book_id?>" class="publish">Publish</a></span>
+    <span>
+        <?php echo $this->Html->link('Publish', '/books/pdf/'.$book_id); ?>
+    </span>
 </div>
 
 <div class="book_pagination">
