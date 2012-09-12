@@ -13,7 +13,6 @@ $tcpdf->xfootertext = 'Copyright Â© %d KBS Homes & Properties. All rights rese
 
 //set auto page breaks
 $tcpdf->SetAutoPageBreak(TRUE, PDF_MARGIN_BOTTOM);
-
 //set image scale factor
 $tcpdf->setImageScale(PDF_IMAGE_SCALE_RATIO);
 

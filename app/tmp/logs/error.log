@@ -1092,3 +1092,43 @@ Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
 Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
 [main] - APP\webroot\index.php, line 92
 
+2012-09-11 19:22:14 Error: Fatal Error (1): Call to undefined function curl_init() in [D:\xampp\htdocs\editablebook\app\Vendor\lulu\lulu.php, line 47]
+2012-09-11 19:22:14 Error: [InternalErrorException] Internal Server Error
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-11 19:22:45 Error: Fatal Error (1): Call to undefined function curl_init() in [D:\xampp\htdocs\editablebook\app\Vendor\lulu\lulu.php, line 47]
+2012-09-11 19:22:45 Error: [FatalErrorException] Call to undefined function curl_init()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-11 19:25:38 Error: Fatal Error (1): Call to undefined function curl_init() in [D:\xampp\htdocs\editablebook\app\Vendor\lulu\lulu.php, line 47]
+2012-09-11 19:25:38 Error: [FatalErrorException] Call to undefined function curl_init()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-11 19:25:40 Error: Fatal Error (1): Call to undefined function curl_init() in [D:\xampp\htdocs\editablebook\app\Vendor\lulu\lulu.php, line 47]
+2012-09-11 19:25:40 Error: [FatalErrorException] Call to undefined function curl_init()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2012-09-11 19:25:43 Error: Fatal Error (1): Call to undefined function curl_init() in [D:\xampp\htdocs\editablebook\app\Vendor\lulu\lulu.php, line 47]
+2012-09-11 19:25:43 Error: [FatalErrorException] Call to undefined function curl_init()
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Error\ErrorHandler.php(162): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(926): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\xampp\htdocs...', 47, Array)
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

@@ -8,7 +8,8 @@
 
 <div class="publsih_link">
     <span>
-        <?php echo $this->Html->link('Publish', '/books/pdf/'.$book_id); ?>
+        <?php //echo $this->Html->link('Publish', '/books/pdf/'.$book_id); ?>
+        <?php echo $this->Html->link('Publish', '/books/publish'); ?>
     </span>
 </div>
 

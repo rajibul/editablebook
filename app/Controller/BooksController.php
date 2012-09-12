@@ -106,6 +106,18 @@ class BooksController extends AppController {
         $this->layout = 'pdf';
         $this->render(); 
     }
+    
+    public function publish(){
+        //var_dump(phpinfo()); die();
+        $this->layout = '';
+        App::import('Vendor','lulu/lulu');  
+        
+        $lulu = new lulu();
+        $result = $lulu->authentication();
+        
+        var_dump(json_decode($result, true));
+        die();
+    }
 }
 
 ?>
