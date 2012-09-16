@@ -52,7 +52,8 @@ $(document).ready(function() {
         }
         return true;
     });
-    //$('#editable_image').editFaceBook();
+    
+    //$("#editable_image").editFaceBook();
 
 //    $(".editable_text" ).eip($("#base_url").val()+'/books/edit', {
 //        form_type: "textarea"
@@ -75,4 +76,49 @@ $(document).ready(function() {
             }
         });
      });
+     
+     $("#editable_image").mouseover(function(){
+         $("#btn_img_edit").show();
+     });
+     
+     
+//     $("#btn_img_edit").click(function(){
+//        //alert('inside');
+//        var myUpload = $("#btn_img_edit").upload({
+//            name: 'file',
+//            action: '',
+//            enctype: 'multipart/form-data',
+//            params: {},
+//            autoSubmit: true,
+//            onSubmit: function() {},
+//            onComplete: function() {},
+//            onSelect: function() {}
+//        });
+//    });
+    
+//    $("#editable_image").mouseout(function(){
+//        $("#btn_img_edit").hide();
+//    });
+//    $("#btn_img_edit").mouseover(function(){
+//        $("#btn_img_edit").show();
+//    });
+    
+    $("input[name=img_edit]").upload({
+        name: 'file',
+        method: 'post',
+        action: $("#base_url").val()+'/books/edit_image/',
+        enctype: 'multipart/form-data',
+        params: {id:$("input[name=img_edit]").attr('id')},
+        autoSubmit: false,
+        onSubmit: function() {},
+        onSelect: function() {},
+        onComplete: function(data) {
+          var mArray = data.split('#_#');
+          alert(mArray[0]);
+          if(mArray[1]){
+              $("#editable_image").attr('src',mArray[1]);
+          }
+        }
+    });
+     
 });

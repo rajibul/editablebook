@@ -35,6 +35,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
                 echo $this->Html->script('jquery-1.8.0');
                 echo $this->Html->script('jquery.jeditable');
                 echo $this->Html->script('editimage');
+                echo $this->Html->script('jquery.ocupload-1.1.2');
                 echo $this->Html->script('common');
 		
 	?>

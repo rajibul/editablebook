@@ -1132,3 +1132,67 @@ Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
 #3 D:\xampp\htdocs\editablebook\lib\Cake\Core\App.php(899): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2012-09-15 13:38:59 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\edit_image.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-09-15 13:40:19 Error: [MissingViewException] View file "D:\xampp\htdocs\editablebook\app\View\Books\edit_image.ctp" is missing.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\View\View.php(472): View->_getViewFileName(NULL)
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Controller\Controller.php(957): View->render(NULL, NULL)
+#2 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(193): Controller->render()
+#3 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(BooksController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-09-16 12:08:49 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:09:00 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:09:10 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:09:17 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:09:22 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:09:29 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:10:32 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:10:34 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:10:34 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-09-16 12:10:37 Error: [MissingActionException] Action AppController::webroot() could not be found.
+#0 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\editablebook\lib\Cake\Routing\Dispatcher.php(161): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\editablebook\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

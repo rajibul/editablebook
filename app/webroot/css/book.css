@@ -54,3 +54,16 @@ textarea{
 /*span.editable_text{
     background-color: #fff;
 }*/
+
+#btn_img_edit{
+    position: absolute;
+    left: 112px;
+    top: 10px;
+    padding: 5px;
+}
+#btn_img_edit .button{
+    color: #000;
+    background-color: #ff9;
+    font-size: 16px;
+    padding: 2px;
+}

@@ -82,6 +82,9 @@
                             }
                         ?>
                         <img class="<?=$book_id?>_<?=$page_id?>_<?=$page_content['section'][$i]['@id']?>" id="editable_image" src="<?=$image_path.$page_content['section'][$i]['path']?>" height="380"  />
+                        <div id="btn_img_edit" >
+                            <input type="button" name="img_edit" id="<?=$book_id?>_<?=$page_id?>_<?=$page_content['section'][$i]['@id']?>" value="Change Image" class="button" />
+                        </div>
                     </div>
 <?php                        
                 }

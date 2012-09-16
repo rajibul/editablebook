@@ -91,6 +91,40 @@ class BooksController extends AppController {
         $this->set('value', $value);
     }
     
+    public function edit_image(){
+        $this->layout = '';
+        $file_type = array('image/jpeg','image/jpg', 'image/png', 'image/gif', 'image/bmp');
+        $up_file_type = strtolower($_FILES['file']['type']);
+        if (!in_array($up_file_type, $file_type)) {
+            $this->set('message', 'Invalid file type. Only supported jpg, png, gif, bmp image');
+        }else{
+//            var_dump($_POST);
+//            var_dump($_FILES);
+            
+            $id_array = explode('_',$_POST['id']);
+            $book_id = (int)$id_array[0];
+            $page_id = (int)$id_array[1];
+            $section_id = (int)$id_array[2];
+            
+            $book = $this->Book->find('first', array('conditions' => array('Book.id' => $book_id)));
+            $username = $this->Session->read('username');
+            @chmod(WWW_ROOT."files/books/".$book['Book']['name']."/".$username."/img/", 0755);
+            if(move_uploaded_file($_FILES['file']['tmp_name'], WWW_ROOT."files/books/".$book['Book']['name']."/".$username."/img/".$_FILES['file']['name'])){
+                $xmlpath = Configure::read('base_url')."/app/webroot/files/books/".$book['Book']['name']."/".$username."/".$book['Book']['name'].".xml";
+                $xml2 = simplexml_load_file($xmlpath, 'SimpleXMLElement', LIBXML_NOCDATA);
+                $xml2->page[$page_id]->section[$section_id-1]->path = 'img/'.$_FILES['file']['name'];
+                if($xml2->asXML(WWW_ROOT."files/books/".$book['Book']['name']."/".$username."/".$book['Book']['name'].".xml")){
+                    $this->set('message','Image has been changed successfully');
+                    $this->set('img_src',Configure::read('base_url')."/app/webroot/files/books/".$book['Book']['name']."/".$username."/img/".$_FILES['file']['name']);
+                }else{
+                    $this->set('message','Can not change image. Please try again');
+                }
+            }else{
+                $this->set('message','Can not change image. Please try again');
+            }
+        }
+    }
+    
     public function pdf($book_id = ''){
         $username = $this->Session->read('username');
         
@@ -113,7 +147,7 @@ class BooksController extends AppController {
         App::import('Vendor','lulu/lulu');  
         
         $lulu = new lulu();
-        $result = $lulu->authentication();
+        $result = $lulu->upload();
         
         var_dump(json_decode($result, true));
         die();

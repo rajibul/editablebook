@@ -30,7 +30,7 @@
     <page id="3" editable="1">
         <section id="1" type="text" editable="1">We can't &lt;i&gt;easily&lt;/i&gt; tell if you are bored, tired, or embarrassed...</section>
         <section id="2" type="image" editable="1">
-            <path>img/p3.png</path>
+            <path>img/Tulips.jpg</path>
             <text id="1" style="height: 130px; left: 160px; padding: 5px; text-align: center; top: 80px; width: 200px;">... and another thing you probably want to know</text>
             <text id="2" style="height: 35px; left: 490px; padding: 5px; text-align: center; top: 25px; width: 90px;">Umhh...</text>
         </section>
